@@ -1,0 +1,3 @@
+gedit-dark-theme is a tiny plugin to enable dark theme on Gedit 3.
+
+Install plugin by cloning repository into ~/.local/share/gedit/plugins.
