@@ -2,8 +2,8 @@
 Loader=python3
 Module=dark_theme
 IAge=3
-Name=Use Dark Theme
-Description=Dark theme for Gedit 3.
+Name=Use Dark Gtk Theme
+Description=Dark Gtk theme for Gedit 3.
 Authors=Giedrius Slavinskas <giedrius.slavinskas@gmail.com>
 Copyright=Copyright © 2014 Giedrius Slavinskas <giedrius.slavinskas@gmail.com>
 Website=http://www.gedit.org
